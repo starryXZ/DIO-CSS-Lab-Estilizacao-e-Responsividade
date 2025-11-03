@@ -37,15 +37,6 @@ O objetivo foi **dominar os fundamentos e técnicas avançadas de CSS**, criando
 
 ---
 
-## 🧩 Estrutura do Projeto
-
-```bash
-📂 trilha-css-desafio-01-main
- ┣ 📂 assets
- ┣ 📜 index.html
- ┣ 📜 reset.css
- ┗ 📜 style.css
-
 🔍 Descrição dos arquivos
 
 index.html → Estrutura base do projeto, utilizando tags semânticas e acessíveis.
@@ -54,16 +45,28 @@ reset.css → Normaliza estilos padrões de navegadores para garantir consistên
 
 style.css → Onde ocorre toda a mágica: estilização, layout, cores, tipografia e responsividade.
 
+---
 📊 Linguagens Utilizadas
 Linguagem	Percentual
 CSS	60.2%
 HTML	39.8%
+---
 ✨ Técnicas e Conceitos Aplicados
 
-✔️ Reset CSS para padronização do layout
-✔️ Flexbox e positioning para alinhamentos e estrutura
-✔️ Tipografia responsiva com unidades relativas
-✔️ Transições e efeitos de hover
-✔️ Uso de variáveis CSS para cores e temas
-✔️ Layout moderno e limpo, com atenção à harmonia visual
-✔️ Design responsivo, adaptando-se a diferentes tamanhos de tela
+- ✔️ Reset CSS para padronização do layout
+- ✔️ Flexbox e positioning para alinhamentos e estrutura
+- ✔️ Tipografia responsiva com unidades relativas
+- ✔️ Transições e efeitos de hover
+- ✔️ Uso de variáveis CSS para cores e temas
+- ✔️ Layout moderno e limpo, com atenção à harmonia visual
+- ✔️ Design responsivo, adaptando-se a diferentes tamanhos de tela
+---
+
+## 🧩 Estrutura do Projeto
+
+```bash
+📂 trilha-css-desafio-01-main
+ ┣ 📂 assets
+ ┣ 📜 index.html
+ ┣ 📜 reset.css
+ ┗ 📜 style.css
